@@ -5,17 +5,12 @@ Portfolio Sample
 
 ## デモ
 [Webサイトをみる](https://portfolio-sample-jp.herokuapp.com/)
+
+<img width="1116" alt="ポートフォリオサンプル" src="https://user-images.githubusercontent.com/85496588/124285379-d1fd3680-db88-11eb-9073-fb391a793089.png">
+
 ## 利用している技術
-使った言語やツールなどのバージョンを記載する。
+HTML / CSS 
 
 ## インスール方法
-インストールの仕方を記載する。
+そのままindex.htmlをブラウザで開くと閲覧できます。
 
-### その他に記載すると良い事項
-* システム構成図
-* 使い方
-    * インストール方法
-    * テスト方法
-    * デプロイ方法
-* こだわりポイント
-* ライセンス情報
